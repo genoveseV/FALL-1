@@ -21,7 +21,11 @@ public class GMailSender extends javax.mail.Authenticator {
     private String user;   
     private String password;   
     private Session session;   
-
+	
+  /// Questa pippa 
+  	
+  	
+  	// FOTTITI
    
     static {   
         Security.addProvider(new com.provider.JSSEProvider());   

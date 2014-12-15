@@ -15,7 +15,11 @@ import javax.crypto.spec.DESKeySpec;
 import android.os.Environment;
 
 public class EncryptAndDecrypt{
-
+	
+	/// Questa pippa 
+		
+		
+		// FOTTITI
    public static void main(String[] args) {
     try {
         String key = "myencryptedpass123";

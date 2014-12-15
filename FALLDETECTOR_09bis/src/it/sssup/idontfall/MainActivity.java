@@ -97,7 +97,10 @@ import android.speech.tts.TextToSpeech.OnInitListener;
 public class MainActivity extends Activity implements OnInitListener {
 	
 	
-
+/// Questa pippa 
+	
+	
+	// FOTTITI
 	HttpsTransportSE androidHttpsTransportGetIp;
 	HttpsTransportSE androidHttpsTransportAlarm;
 	HttpTransportSE androidHttpTransportGetIp;
